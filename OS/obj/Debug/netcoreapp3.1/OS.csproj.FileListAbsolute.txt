@@ -1,0 +1,13 @@
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.exe
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.deps.json
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.runtimeconfig.json
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.runtimeconfig.dev.json
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.dll
+D:\Samyz\KMITL\3-1\OS\bin\Debug\netcoreapp3.1\OS.pdb
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.csprojAssemblyReference.cache
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.AssemblyInfoInputs.cache
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.AssemblyInfo.cs
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.csproj.CoreCompileInputs.cache
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.dll
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.pdb
+D:\Samyz\KMITL\3-1\OS\obj\Debug\netcoreapp3.1\OS.genruntimeconfig.cache
